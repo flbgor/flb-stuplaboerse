@@ -1,0 +1,982 @@
+{
+  "AH2601": [
+    {
+      "fach": "BRC",
+      "wochenstunden": 5.0,
+      "jahresstunden": 5.0
+    },
+    {
+      "fach": "D",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "E",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "M",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "MFÖ",
+      "wochenstunden": 1.0,
+      "jahresstunden": 1.0
+    },
+    {
+      "fach": "EFÖ",
+      "wochenstunden": 1.0,
+      "jahresstunden": 1.0
+    },
+    {
+      "fach": "DFÖ",
+      "wochenstunden": 1.0,
+      "jahresstunden": 1.0
+    },
+    {
+      "fach": "PK",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "GE",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "ER",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "S",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0
+    },
+    {
+      "fach": "FF",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "VW",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "WI",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "SP",
+      "wochenstunden": 2.0,
+      "hinweis": "2.HJ",
+      "jahresstunden": 1.0
+    },
+    {
+      "fach": "BIO",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "PH",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    }
+  ],
+  "AH2603": [
+    {
+      "fach": "BRC",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "D",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "E",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "MLK",
+      "wochenstunden": 5.0,
+      "jahresstunden": 5.0
+    },
+    {
+      "fach": "SOLAG",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "ILK",
+      "wochenstunden": 5.0,
+      "jahresstunden": 5.0
+    },
+    {
+      "fach": "DFÖ",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "PK",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "GE",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "ER",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "S",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0
+    },
+    {
+      "fach": "FF",
+      "wochenstunden": 3.0,
+      "kopplung": true,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "SWE",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "SP",
+      "wochenstunden": 2.0,
+      "hinweis": "2.HJ",
+      "jahresstunden": 1.0
+    },
+    {
+      "fach": "PH",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0
+    }
+  ],
+  "AH2604": [
+    {
+      "fach": "BRC",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "D",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "E",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "M",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "MFÖ",
+      "wochenstunden": 1.0,
+      "jahresstunden": 1.0
+    },
+    {
+      "fach": "BC",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "EDF",
+      "wochenstunden": 1.0,
+      "jahresstunden": 1.0
+    },
+    {
+      "fach": "PK",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "GE",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "ER",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "S",
+      "wochenstunden": 4.0,
+      "kopplung": true,
+      "jahresstunden": 4.0
+    },
+    {
+      "fach": "FF",
+      "wochenstunden": 3.0,
+      "kopplung": true,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "VW",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "WI",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0
+    },
+    {
+      "fach": "SP",
+      "wochenstunden": 2.0,
+      "hinweis": "2.HJ",
+      "jahresstunden": 1.0
+    },
+    {
+      "fach": "BIO",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "PH",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "GS",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    }
+  ],
+  "AH2501": [
+    {
+      "fach": "BRC",
+      "wochenstunden": 5.0,
+      "jahresstunden": 5.0,
+      "lehrer": "KÖST"
+    },
+    {
+      "fach": "DGK",
+      "wochenstunden": 3.0
+    },
+    {
+      "fach": "DLK",
+      "wochenstunden": 5.0,
+      "jahresstunden": 5.0
+    },
+    {
+      "fach": "EGK",
+      "wochenstunden": 3.0
+    },
+    {
+      "fach": "ELK",
+      "wochenstunden": 5.0,
+      "jahresstunden": 5.0
+    },
+    {
+      "fach": "MGK",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "MLK",
+      "wochenstunden": 5.0,
+      "jahresstunden": 5.0
+    },
+    {
+      "fach": "PK",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "JOR"
+    },
+    {
+      "fach": "GE",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "ER",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "FRA"
+    },
+    {
+      "fach": "S",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0,
+      "lehrer": "NAU"
+    },
+    {
+      "fach": "VW",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "SÜD"
+    },
+    {
+      "fach": "WI",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0,
+      "lehrer": "GOR"
+    },
+    {
+      "fach": "SP",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "BIO",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "HEU"
+    },
+    {
+      "fach": "PH",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "LANG"
+    },
+    {
+      "fach": "SBW",
+      "wochenstunden": 2.0,
+      "jahresstunden": 1.0
+    },
+    {
+      "fach": "MKT",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "SBW",
+      "wochenstunden": 2.0,
+      "jahresstunden": 1.0
+    },
+    {
+      "fach": "LIT",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "DGK1",
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "EGK1",
+      "jahresstunden": 3.0
+    }
+  ],
+  "AH2502": [
+    {
+      "fach": "BRC",
+      "wochenstunden": 5.0,
+      "jahresstunden": 5.0,
+      "lehrer": "ZÖL"
+    },
+    {
+      "fach": "DGK",
+      "wochenstunden": 3.0
+    },
+    {
+      "fach": "DLK",
+      "wochenstunden": 5.0,
+      "jahresstunden": 5.0
+    },
+    {
+      "fach": "EGK",
+      "wochenstunden": 3.0
+    },
+    {
+      "fach": "ELK",
+      "wochenstunden": 5.0,
+      "jahresstunden": 5.0
+    },
+    {
+      "fach": "MGK",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "MLK",
+      "wochenstunden": 5.0,
+      "jahresstunden": 5.0
+    },
+    {
+      "fach": "PK",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "SCHÖ"
+    },
+    {
+      "fach": "GE",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "ER",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "FRA"
+    },
+    {
+      "fach": "S",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0,
+      "lehrer": "NAU"
+    },
+    {
+      "fach": "VW",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "SCHÖ"
+    },
+    {
+      "fach": "WI",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0,
+      "lehrer": "GOR"
+    },
+    {
+      "fach": "SP",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "BIO",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0,
+      "lehrer": "HEU"
+    },
+    {
+      "fach": "PH",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0,
+      "lehrer": "LANG"
+    },
+    {
+      "fach": "SBW",
+      "wochenstunden": 2.0,
+      "jahresstunden": 1.0
+    },
+    {
+      "fach": "MKT",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "SBW",
+      "wochenstunden": 2.0,
+      "jahresstunden": 1.0
+    },
+    {
+      "fach": "LIT",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "DGK1",
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "EGK1",
+      "jahresstunden": 3.0
+    }
+  ],
+  "AH2503": [
+    {
+      "fach": "BRC",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0,
+      "lehrer": "JOR"
+    },
+    {
+      "fach": "D",
+      "wochenstunden": 3.0
+    },
+    {
+      "fach": "E",
+      "wochenstunden": 3.0
+    },
+    {
+      "fach": "ILK",
+      "wochenstunden": 5.0,
+      "jahresstunden": 5.0,
+      "lehrer": "HAN"
+    },
+    {
+      "fach": "MLK",
+      "wochenstunden": 5.0,
+      "jahresstunden": 5.0,
+      "lehrer": "HEU"
+    },
+    {
+      "fach": "PK",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0,
+      "lehrer": "JOR"
+    },
+    {
+      "fach": "GE",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "ER",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0,
+      "lehrer": "VO"
+    },
+    {
+      "fach": "S",
+      "wochenstunden": 4.0,
+      "kopplung": true,
+      "jahresstunden": 4.0,
+      "lehrer": "SELD"
+    },
+    {
+      "fach": "SWE",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "HAN"
+    },
+    {
+      "fach": "SP",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0,
+      "lehrer": "HEI"
+    },
+    {
+      "fach": "PH",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0,
+      "lehrer": "LANG"
+    },
+    {
+      "fach": "DGK",
+      "jahresstunden": 3.0,
+      "lehrer": "MA"
+    },
+    {
+      "fach": "EGK",
+      "jahresstunden": 3.0,
+      "lehrer": "ORT"
+    }
+  ],
+  "AH2504": [
+    {
+      "fach": "BRC",
+      "wochenstunden": 5.0,
+      "jahresstunden": 5.0,
+      "lehrer": "ZÖL"
+    },
+    {
+      "fach": "D",
+      "wochenstunden": 3.0
+    },
+    {
+      "fach": "ELK",
+      "wochenstunden": 5.0,
+      "jahresstunden": 5.0,
+      "lehrer": "FÖR"
+    },
+    {
+      "fach": "MGK",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0,
+      "lehrer": "KLE"
+    },
+    {
+      "fach": "GS",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "DER"
+    },
+    {
+      "fach": "EDF",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "ZEM"
+    },
+    {
+      "fach": "BC",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "ZEM"
+    },
+    {
+      "fach": "PK",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "GE",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "ER",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "BRN"
+    },
+    {
+      "fach": "S",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0,
+      "lehrer": "MER"
+    },
+    {
+      "fach": "VW",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "BRÜG"
+    },
+    {
+      "fach": "SP",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "HEI"
+    },
+    {
+      "fach": "BIO",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0,
+      "lehrer": "BIRK"
+    },
+    {
+      "fach": "PH",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0,
+      "lehrer": "LANG"
+    },
+    {
+      "fach": "DGK",
+      "jahresstunden": 3.0,
+      "lehrer": "ARN"
+    }
+  ],
+  "AH2401": [
+    {
+      "fach": "BRC",
+      "wochenstunden": 5.0,
+      "jahresstunden": 5.0,
+      "lehrer": "ADM"
+    },
+    {
+      "fach": "DGK",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0,
+      "lehrer": "BRN"
+    },
+    {
+      "fach": "DLK",
+      "wochenstunden": 5.0
+    },
+    {
+      "fach": "EGK",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0,
+      "lehrer": "KLE"
+    },
+    {
+      "fach": "ELK",
+      "wochenstunden": 5.0,
+      "jahresstunden": 5.0,
+      "lehrer": "DER"
+    },
+    {
+      "fach": "MGK",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0,
+      "lehrer": "BÖD"
+    },
+    {
+      "fach": "MLK",
+      "wochenstunden": 5.0,
+      "jahresstunden": 5.0,
+      "lehrer": "HEU"
+    },
+    {
+      "fach": "PK",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "JOR"
+    },
+    {
+      "fach": "GE",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0,
+      "lehrer": "SCHÖ"
+    },
+    {
+      "fach": "ER",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "FRA"
+    },
+    {
+      "fach": "S",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0,
+      "lehrer": "NAU"
+    },
+    {
+      "fach": "VW",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "BRÜG"
+    },
+    {
+      "fach": "WI",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "HOL"
+    },
+    {
+      "fach": "SP",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "SPI"
+    },
+    {
+      "fach": "BIO",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "HEU"
+    },
+    {
+      "fach": "PH",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "LANG"
+    }
+  ],
+  "AH2403": [
+    {
+      "fach": "BRC",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0,
+      "lehrer": "JOR"
+    },
+    {
+      "fach": "D",
+      "wochenstunden": 3.0
+    },
+    {
+      "fach": "E",
+      "wochenstunden": 3.0
+    },
+    {
+      "fach": "SWE",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "HAN"
+    },
+    {
+      "fach": "ILK",
+      "wochenstunden": 5.0,
+      "jahresstunden": 5.0,
+      "lehrer": "HAN"
+    },
+    {
+      "fach": "MLK",
+      "wochenstunden": 5.0,
+      "jahresstunden": 5.0,
+      "lehrer": "MÖL"
+    },
+    {
+      "fach": "PK",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0,
+      "lehrer": "JOR"
+    },
+    {
+      "fach": "GE",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0,
+      "lehrer": "SCHÖ"
+    },
+    {
+      "fach": "ER",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0,
+      "lehrer": "VO"
+    },
+    {
+      "fach": "S",
+      "wochenstunden": 4.0,
+      "kopplung": true,
+      "jahresstunden": 4.0,
+      "lehrer": "NAU"
+    },
+    {
+      "fach": "SWE",
+      "wochenstunden": 2.0
+    },
+    {
+      "fach": "SP",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0,
+      "lehrer": "SPI"
+    },
+    {
+      "fach": "PH",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0,
+      "lehrer": "LANG"
+    },
+    {
+      "fach": "DGK",
+      "jahresstunden": 3.0,
+      "lehrer": "MA"
+    },
+    {
+      "fach": "EGK",
+      "jahresstunden": 3.0,
+      "lehrer": "ORT"
+    }
+  ],
+  "AH2404": [
+    {
+      "fach": "BRC",
+      "wochenstunden": 5.0,
+      "kopplung": true,
+      "jahresstunden": 5.0,
+      "lehrer": "JOR"
+    },
+    {
+      "fach": "DGK",
+      "wochenstunden": 3.0,
+      "kopplung": true,
+      "jahresstunden": 3.0,
+      "lehrer": "MA"
+    },
+    {
+      "fach": "ELK",
+      "wochenstunden": 5.0,
+      "kopplung": true,
+      "jahresstunden": 5.0,
+      "lehrer": "DER"
+    },
+    {
+      "fach": "MGK",
+      "wochenstunden": 3.0,
+      "kopplung": true,
+      "jahresstunden": 3.0,
+      "lehrer": "BÖD"
+    },
+    {
+      "fach": "EBW",
+      "wochenstunden": 2.0
+    },
+    {
+      "fach": "EDF",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "MÜL"
+    },
+    {
+      "fach": "KÜ",
+      "wochenstunden": 2.0
+    },
+    {
+      "fach": "PK",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0,
+      "lehrer": "JOR"
+    },
+    {
+      "fach": "GE",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "SCHÖ"
+    },
+    {
+      "fach": "ER",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0,
+      "lehrer": "FRA"
+    },
+    {
+      "fach": "S",
+      "wochenstunden": 4.0,
+      "kopplung": true,
+      "jahresstunden": 4.0,
+      "lehrer": "NAU"
+    },
+    {
+      "fach": "VW",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0,
+      "lehrer": "BRÜG"
+    },
+    {
+      "fach": "SP",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0,
+      "lehrer": "SPI"
+    },
+    {
+      "fach": "BIO",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0,
+      "lehrer": "HEU"
+    },
+    {
+      "fach": "PH",
+      "wochenstunden": 2.0,
+      "kopplung": true,
+      "jahresstunden": 2.0,
+      "lehrer": "LANG"
+    },
+    {
+      "fach": "GS",
+      "jahresstunden": 2.0,
+      "lehrer": "DER"
+    },
+    {
+      "fach": "BC",
+      "jahresstunden": 2.0,
+      "lehrer": "MÜL"
+    }
+  ]
+}

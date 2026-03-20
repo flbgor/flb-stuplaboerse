@@ -1,0 +1,633 @@
+{
+  "HH2601": [
+    {
+      "fach": "BR",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0
+    },
+    {
+      "fach": "BR_1",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "D",
+      "wochenstunden": 4.0,
+      "hinweis": "1.HJ",
+      "jahresstunden": 3.5
+    },
+    {
+      "fach": "D",
+      "wochenstunden": 3.0,
+      "hinweis": "2.HJ"
+    },
+    {
+      "fach": "E",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "ER",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "IW",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0
+    },
+    {
+      "fach": "M",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0
+    },
+    {
+      "fach": "PK",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "T_A",
+      "wochenstunden": 1.0,
+      "jahresstunden": 0.5
+    },
+    {
+      "fach": "T_B",
+      "wochenstunden": 1.0,
+      "jahresstunden": 0.5
+    },
+    {
+      "fach": "VW",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "S",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "SP",
+      "wochenstunden": 2.0,
+      "hinweis": "1.HJ",
+      "jahresstunden": 1.0
+    },
+    {
+      "fach": "SCHL1",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "SCHL2",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    }
+  ],
+  "HH2602": [
+    {
+      "fach": "BR",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0
+    },
+    {
+      "fach": "BR_1",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "D",
+      "wochenstunden": 4.0,
+      "hinweis": "1.HJ",
+      "jahresstunden": 3.5
+    },
+    {
+      "fach": "D",
+      "wochenstunden": 3.0,
+      "hinweis": "2.HJ"
+    },
+    {
+      "fach": "E",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "ER",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "IW",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0
+    },
+    {
+      "fach": "M",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0
+    },
+    {
+      "fach": "PK",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "T_A",
+      "wochenstunden": 1.0,
+      "jahresstunden": 0.5
+    },
+    {
+      "fach": "T_B",
+      "wochenstunden": 1.0,
+      "jahresstunden": 0.5
+    },
+    {
+      "fach": "VW",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "F",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "SP",
+      "wochenstunden": 2.0,
+      "hinweis": "1.HJ",
+      "jahresstunden": 1.0
+    },
+    {
+      "fach": "S",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    }
+  ],
+  "HH2603": [
+    {
+      "fach": "BR",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0
+    },
+    {
+      "fach": "BR_1",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "D",
+      "wochenstunden": 4.0,
+      "hinweis": "1.HJ",
+      "jahresstunden": 3.5
+    },
+    {
+      "fach": "D",
+      "wochenstunden": 3.0,
+      "hinweis": "2.HJ"
+    },
+    {
+      "fach": "E",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "ER",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "IW",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0
+    },
+    {
+      "fach": "M",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0
+    },
+    {
+      "fach": "PK",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "T_A",
+      "wochenstunden": 1.0,
+      "jahresstunden": 0.5
+    },
+    {
+      "fach": "T_B",
+      "wochenstunden": 1.0,
+      "jahresstunden": 0.5
+    },
+    {
+      "fach": "VW",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "FF",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "SP",
+      "wochenstunden": 2.0,
+      "hinweis": "1.HJ",
+      "jahresstunden": 1.0
+    },
+    {
+      "fach": "S",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    }
+  ],
+  "HH2604": [
+    {
+      "fach": "BR",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0
+    },
+    {
+      "fach": "BR_1",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "D",
+      "wochenstunden": 4.0,
+      "hinweis": "1.HJ",
+      "jahresstunden": 3.5
+    },
+    {
+      "fach": "D",
+      "wochenstunden": 3.0,
+      "hinweis": "2.HJ"
+    },
+    {
+      "fach": "E",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "ER",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "IW",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0
+    },
+    {
+      "fach": "M",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0
+    },
+    {
+      "fach": "PK",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "T_A",
+      "wochenstunden": 1.0,
+      "jahresstunden": 0.5
+    },
+    {
+      "fach": "T_B",
+      "wochenstunden": 1.0,
+      "jahresstunden": 0.5
+    },
+    {
+      "fach": "VW",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "S",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "SP",
+      "wochenstunden": 2.0,
+      "hinweis": "1.HJ",
+      "jahresstunden": 1.0
+    }
+  ],
+  "HH2605": [
+    {
+      "fach": "BR",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0
+    },
+    {
+      "fach": "BR_1",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "D",
+      "wochenstunden": 4.0,
+      "hinweis": "1.HJ",
+      "jahresstunden": 3.5
+    },
+    {
+      "fach": "D",
+      "wochenstunden": 3.0,
+      "hinweis": "2.HJ"
+    },
+    {
+      "fach": "E",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "ER",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "IW",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0
+    },
+    {
+      "fach": "M",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0
+    },
+    {
+      "fach": "PK",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "T_A",
+      "wochenstunden": 1.0,
+      "jahresstunden": 0.5
+    },
+    {
+      "fach": "T_B",
+      "wochenstunden": 1.0,
+      "jahresstunden": 0.5
+    },
+    {
+      "fach": "VW",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "S",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "SP",
+      "wochenstunden": 2.0,
+      "hinweis": "1.HJ",
+      "jahresstunden": 1.0
+    },
+    {
+      "fach": "STUBO",
+      "wochenstunden": 1.0,
+      "jahresstunden": 0.5
+    },
+    {
+      "fach": "STUBO",
+      "wochenstunden": 1.0,
+      "jahresstunden": 0.5
+    }
+  ],
+  "HH2501": [
+    {
+      "fach": "BR",
+      "wochenstunden": 6.0,
+      "jahresstunden": 6.0,
+      "lehrer": "SPI"
+    },
+    {
+      "fach": "D",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0,
+      "lehrer": "VO"
+    },
+    {
+      "fach": "E",
+      "wochenstunden": 4.0,
+      "hinweis": "1.HJ",
+      "jahresstunden": 3.5,
+      "lehrer": "SEL"
+    },
+    {
+      "fach": "E",
+      "wochenstunden": 3.0,
+      "hinweis": "2. HJ"
+    },
+    {
+      "fach": "ER",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "IW",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0,
+      "lehrer": "GOR"
+    },
+    {
+      "fach": "M",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0,
+      "lehrer": "MÖL"
+    },
+    {
+      "fach": "PK",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "SCHÖ"
+    },
+    {
+      "fach": "VW",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "SWL"
+    },
+    {
+      "fach": "S",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0,
+      "lehrer": "SWL"
+    },
+    {
+      "fach": "BIO",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "EBW",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    }
+  ],
+  "HH2502": [
+    {
+      "fach": "BR",
+      "wochenstunden": 6.0,
+      "jahresstunden": 6.0,
+      "lehrer": "KLA"
+    },
+    {
+      "fach": "D",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0,
+      "lehrer": "BRN"
+    },
+    {
+      "fach": "E",
+      "wochenstunden": 4.0,
+      "hinweis": "1.HJ",
+      "jahresstunden": 3.5,
+      "lehrer": "SEL"
+    },
+    {
+      "fach": "E",
+      "wochenstunden": 3.0,
+      "hinweis": "2. HJ"
+    },
+    {
+      "fach": "ER",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "BRN"
+    },
+    {
+      "fach": "IW",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0,
+      "lehrer": "BDS"
+    },
+    {
+      "fach": "M",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0,
+      "lehrer": "LAUD"
+    },
+    {
+      "fach": "PK",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "SWL"
+    },
+    {
+      "fach": "VW",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "SEL"
+    },
+    {
+      "fach": "F",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0,
+      "lehrer": "BDS"
+    },
+    {
+      "fach": "S",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0,
+      "lehrer": "SEN"
+    },
+    {
+      "fach": "BIO",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "EBW",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    }
+  ],
+  "HH2505": [
+    {
+      "fach": "BR",
+      "wochenstunden": 6.0,
+      "jahresstunden": 6.0,
+      "lehrer": "ZÖL"
+    },
+    {
+      "fach": "D",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0,
+      "lehrer": "SÜD"
+    },
+    {
+      "fach": "E",
+      "wochenstunden": 4.0,
+      "hinweis": "1.HJ",
+      "jahresstunden": 3.5
+    },
+    {
+      "fach": "E",
+      "wochenstunden": 3.0,
+      "hinweis": "2. HJ"
+    },
+    {
+      "fach": "ER",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "IW",
+      "wochenstunden": 4.0,
+      "jahresstunden": 4.0,
+      "lehrer": "BDS"
+    },
+    {
+      "fach": "M",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0,
+      "lehrer": "LAUD"
+    },
+    {
+      "fach": "PK",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "WÜB"
+    },
+    {
+      "fach": "VW",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0,
+      "lehrer": "WÜB"
+    },
+    {
+      "fach": "S",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0,
+      "lehrer": "NAU"
+    },
+    {
+      "fach": "BIO",
+      "wochenstunden": 2.0,
+      "jahresstunden": 2.0
+    },
+    {
+      "fach": "EBW",
+      "wochenstunden": 3.0,
+      "jahresstunden": 3.0
+    },
+    {
+      "fach": "STUBO",
+      "wochenstunden": 1.0,
+      "jahresstunden": 0.5,
+      "lehrer": "NAU"
+    },
+    {
+      "fach": "STUBO",
+      "wochenstunden": 1.0,
+      "jahresstunden": 0.5,
+      "lehrer": "LAUD"
+    }
+  ]
+}
