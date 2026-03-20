@@ -1,0 +1,70 @@
+version: '3.8'
+
+services:
+  mariadb:
+    image: mariadb:10.11
+    container_name: flboerse-db
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: flb
+      MYSQL_USER: flb
+      MYSQL_PASSWORD: flb
+    volumes:
+      - mariadb-data:/var/lib/mysql
+      - ./init-db.sql:/docker-entrypoint-initdb.d/init-db.sql
+    ports:
+      - "3306:3306"
+    networks:
+      - flboerse-network
+    healthcheck:
+      test: ["CMD", "healthcheck.sh", "--connect", "--innodb_initialized"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+    container_name: flboerse-backend
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+      - DB_HOST=mariadb
+      - DB_PORT=3306
+      - DB_USER=flb
+      - DB_PASSWORD=flb
+      - DB_NAME=flb
+      - JWT_SECRET=flboerse-secret-2026
+      - PORT=3002
+    ports:
+      - "3002:3002"
+    depends_on:
+      mariadb:
+        condition: service_healthy
+    networks:
+      - flboerse-network
+    volumes:
+      - ./server:/app
+      - /app/node_modules
+
+  frontend:
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+    container_name: flboerse-frontend
+    restart: unless-stopped
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    networks:
+      - flboerse-network
+
+volumes:
+  mariadb-data:
+
+networks:
+  flboerse-network:
+    driver: bridge
